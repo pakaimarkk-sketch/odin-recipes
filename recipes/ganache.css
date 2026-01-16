@@ -1,0 +1,25 @@
+#button {
+background-color: white;
+margin: 20px;
+font-size: 36px;
+box-sizing: border-box;
+
+}
+
+.main {
+    font-size: 36px;
+}
+
+#header {
+    background-color: antiquewhite;
+    width: 800px;
+}
+#description {
+    box-sizing:border-box;
+    width: 800px;
+    padding: 10px;
+    margin: 10px;
+}
+#list {
+    width: 800;
+}
